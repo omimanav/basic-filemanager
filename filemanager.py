@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import os, sys, readline, time
 
-print("4ch-fm")
+print("---")
 curDir = os.listdir(os.curdir)
 curPath = os.curdir
 
